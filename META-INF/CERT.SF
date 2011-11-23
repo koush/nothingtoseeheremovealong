@@ -1,0 +1,85 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: l9yGfDw96I1MIKX4U7loGjXywvI=
+
+Name: system/app/GoogleLoginService.apk
+SHA1-Digest: Hv6uJYkNq8R9FIED9Jz3uYyx8ZI=
+
+Name: system/app/OneTimeInitializer.apk
+SHA1-Digest: 8cAA7b6gNG7XfmjeVh77VEQvz7k=
+
+Name: system/app/GoogleContactsSyncAdapter.apk
+SHA1-Digest: TVq6mPf2dusFYK/oQyr1oCJ1QkE=
+
+Name: system/lib/libvoicesearch.so
+SHA1-Digest: YDPa7Chg/i66ZzEaJU3lWzsobB4=
+
+Name: system/framework/com.google.android.maps.jar
+SHA1-Digest: jsjjB7R+EY1w+3LCJWYi4FBaaQs=
+
+Name: system/etc/permissions/features.xml
+SHA1-Digest: 9PFuuyZLB2UDIBe9NEvwK1YycF0=
+
+Name: system/app/Vending.apk
+SHA1-Digest: vWVajUP/lGs+5TaKUwGmPz3X7Ys=
+
+Name: system/app/GooglePackageVerifierUpdater.apk
+SHA1-Digest: cq39C60+UZMyKfiXdidBW60L3OQ=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: aWOZKU1hTmoOIVh4f2wRYprC1wU=
+
+Name: system/app/GooglePackageVerifier.apk
+SHA1-Digest: eO6dJAokLkQoMgusuDUPQDWANFY=
+
+Name: system/app/GoogleQuickSearchBox.apk
+SHA1-Digest: cUt7As3FlJVpUYuj0RPjUqVynjo=
+
+Name: system/etc/permissions/com.google.android.media.effects.xml
+SHA1-Digest: j/P++0UEThlMLHb5ewoUXe96pQ4=
+
+Name: system/app/GoogleTTS.apk
+SHA1-Digest: MjMCbqWSjRs12tUH6K5brpa28wg=
+
+Name: system/app/MediaUploader.apk
+SHA1-Digest: GLuiElpEIlsnFU6ZOnHN61GZQWA=
+
+Name: system/app/GooglePartnerSetup.apk
+SHA1-Digest: mFxCxxA6j4LDr+MD8ga6Ual+MlA=
+
+Name: system/app/GoogleServicesFramework.apk
+SHA1-Digest: k1oNkdj4BUJEATSMC9WFVc3AR7k=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CSZ7Gyg6X76HeNNSMKPZaNDGFlI=
+
+Name: system/app/NetworkLocation.apk
+SHA1-Digest: LadckvCESMmY+RlU/uQPO7ouCF0=
+
+Name: system/app/GenieWidget.apk
+SHA1-Digest: FrwSXEcldzlmovxT9e2NlUOCnfs=
+
+Name: system/app/SetupWizard.apk
+SHA1-Digest: 1ZJVh8LTFCl1T1Kux0z8ES/5abw=
+
+Name: system/etc/permissions/com.google.android.maps.xml
+SHA1-Digest: QaPNB5FUfwkZ5T3fG1bXJpF8pNY=
+
+Name: system/app/MarketUpdater.apk
+SHA1-Digest: CZ1YnJxmQVycOFvBzaZ3ggsxd0c=
+
+Name: system/app/GoogleBackupTransport.apk
+SHA1-Digest: mhWWVytGdA+u6pC9XI1R2en7KCU=
+
+Name: system/framework/com.google.android.media.effects.jar
+SHA1-Digest: 5bf9Cy6X84+FWrOysEdwsMGnDFw=
+
+Name: system/app/Talk.apk
+SHA1-Digest: 6TmKv8naVMkXmjpXwxquvmb/HbE=
+
+Name: system/app/YouTube.apk
+SHA1-Digest: BsR/58WtdF6BcUZOxjwiEbBROhU=
+
+Name: system/app/GoogleFeedback.apk
+SHA1-Digest: L8eWf4qQvF5U7LVk5cWxZ+IDP1w=
+
