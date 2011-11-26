@@ -10,6 +10,9 @@ then
     rm -f /tmp/gapps/system/app/TagGoogle.apk
 fi
 
+# LatinIME.apk vs LatinImeGoogle.apk.. case sensitive
+rm -f /system/app/LatinIME.apk
+
 for f in $(ls /tmp/gapps/system/app | sed s/Google//g)
 do
     rm /system/app/$f
