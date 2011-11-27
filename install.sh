@@ -4,11 +4,6 @@
 if [ ! -f "/system/app/NfcGoogle.apk" -a ! -f "/system/app/Nfc.apk" ]
 then
     rm -f /tmp/gapps/system/app/NfcGoogle.apk
-    
-    # no nfc means no google wallet
-    rm -f /system/app/Wallet.apk
-    rm -f /system/framework/com.android.nfc_extras.jar
-    rm -f /system/vendor/firmware/libpn544_fw.so
 fi
 if [ ! -f "/system/app/TagGoogle.apk" -a ! -f "/system/app/Tag.apk" ]
 then
