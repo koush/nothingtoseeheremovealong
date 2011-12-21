@@ -3,18 +3,13 @@ ui_print(" For Android 4.0");
 ui_print("Mounting system...");
 run_program("/sbin/busybox", "mount", "/system");
 show_progress(1, 15);
-ui_print("Extracting APKs...");
-run_program("/sbin/mkdir", "-p", "/tmp/gapps/system");
-package_extract_dir("system", "/tmp/gapps/system");
-package_extract_file("install.sh", "/tmp/install.sh");
-set_perm(0, 0777, 0777, "/tmp/install.sh");
 ui_print("Deleting old APKs...");
-delete("/system/app/SetupWizard.apk", 
-"/system/app/Provision.apk",
-"/system/app/Gallery2.apk");
-
-ui_print("Copying new APKs...");
-run_program("/tmp/install.sh");
+delete("/system/app/Calendar.apk",
+"/system/app/CalendarProvider.apk",
+"/system/app/Gallery2.apk",
+"/system/app/Provision.apk");
+ui_print("Copying new Files...");
+package_extract_dir("system", "/system");
 ui_print("Unmounting system...");
 run_program("/sbin/busybox", "umount", "/system");
 ui_print("Installation complete!");
